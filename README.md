@@ -2,17 +2,14 @@
 Convert Arabic Handwritten Images to Text
 
 ### Problem Statement: 
-
 Given a Arabic handwritten word in image form. Convert it into text form or recognise the word and get the word in text form
 
 
-Solution Implemented:
-
+### Solution Implemented:
 Used 3 layer CNN to learn the features of Arabic Text. Fed that leaning into dynamic_rnn module with LSTM cell to predict the output.
 
 
-Results: 
-
+### Results: 
 The model is trainable and able to converge on small dataset.
 
 

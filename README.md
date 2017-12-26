@@ -25,7 +25,7 @@ contains helpers function to create batch to feed into model, prepare arabic cha
 #### Run.ipynb:
 contains the results of training along with predicted result
 
-### Result:
+#### Result:
 
 ![screenshot from 2017-12-26 14 13 42](https://user-images.githubusercontent.com/24511086/34352184-0dc48646-ea47-11e7-8849-edab490ee22f.png)
 

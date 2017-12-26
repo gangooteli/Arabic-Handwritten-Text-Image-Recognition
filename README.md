@@ -1,7 +1,7 @@
 # Arabic-Handwritten-Text-Image-Recognition
 Convert Arabic Handwritten Images to Text
 
-Problem Statement: 
+## Problem Statement: 
 
 Given a Arabic handwritten word in image form. Convert it into text form or recognise the word and get the word in text form
 

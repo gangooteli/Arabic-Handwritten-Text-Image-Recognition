@@ -13,12 +13,16 @@ Used 3 layer CNN to learn the features of Arabic Text. Fed that leaning into dyn
 The model is trainable and able to converge on small dataset.
 
 
-#### File Description:
-train.py: to train the model
-cnn_lstm_model.py : Implemntation of CNN-LSTM model using tensorflow.
-configuration.py: Configuration file for all the hyperparameters and variable
-helpers.py: contains helpers function to create batch to feed into model, prepare arabic character set and dictionary
+### File Description:
+#### train.py: 
+to train the model
+#### cnn_lstm_model.py : 
+Implemntation of CNN-LSTM model using tensorflow.
+#### configuration.py: 
+Configuration file for all the hyperparameters and variable
+#### helpers.py: 
+contains helpers function to create batch to feed into model, prepare arabic character set and dictionary
 
 
-#### Further Work:
+### Further Work:
 Need good amount of GPU resource to train the model on full dataset to get the Results.
